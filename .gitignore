@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tableau temp files
+*.twbr
+*.tde
+*.hyper
+~$*
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
