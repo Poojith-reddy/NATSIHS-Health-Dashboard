@@ -102,7 +102,9 @@ Below are the individual charts and the combined interactive dashboard built in 
 
 ### 1. Health Trends Over Time by Remoteness
 
-<!-- ADD YOUR SCREENSHOT: screenshots/01_time_series_trends.png -->
+<!-- <img width="469" height="182" alt="image" src="https://github.com/user-attachments/assets/8d69008f-9f68-4959-9e94-f3e333ede8ef" />
+: screenshots/01_time_series_trends.png -->![Uploading image.png…]()
+
 ![Health Trends Over Time](screenshots/01_time_series_trends.png)
 
 **Chart Type:** Line chart with colour-coded remoteness areas
